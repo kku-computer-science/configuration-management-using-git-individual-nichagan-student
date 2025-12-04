@@ -7,3 +7,5 @@
 * I enjoy learning new things and can write code even if I'm not perfect yet. I always try my best.
 * I am responsible for: Bubble sort
 * Team: konnao-by-pwc
+* Semester 2/2568
+
